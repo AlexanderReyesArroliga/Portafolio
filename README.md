@@ -2,5 +2,5 @@
 
 ## HTML page with css and javascript
 
-[https://github.com/user/repo/blob/branch/other_file.md](https://github.com/AlexanderReyesArroliga/Portafolio/tree/main/Html-css-javascript_project)
+[Link](https://github.com/AlexanderReyesArroliga/Portafolio/tree/main/Html-css-javascript_project)
 
